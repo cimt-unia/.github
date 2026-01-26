@@ -35,20 +35,6 @@ Our work supports applications in neurology, movement disorders, and digital bio
 
 ---
 
-## Open Research Tools
-
-We provide a suite of open-source, containerized tools for end-to-end neurosignal analysis—hosted on Hugging Face Spaces:
-
-| Tool | Purpose | Link |
-|------|--------|------|
-| **ICA_Xtra** | Automated ICA-based artifact removal for high-density EEG (e.g., 280-channel EGI) | [Run on HF](https://huggingface.co/spaces/CIMT/ICA_Xtra) |
-| **LCMV_Xtra** | Enhanced LCMV beamformer for source-level neural activity reconstruction | [Run on HF](https://huggingface.co/spaces/CIMT/LCMV_Xtra) |
-| **FC_Xtra** | Debiased functional connectivity (WPLI) using DiFuMo brain parcellation | [Run on HF](https://huggingface.co/spaces/CIMT/FC_Xtra) |
-
-All tools are designed for **reproducibility**, **scalability**, and **integration** into larger analysis workflows.
-
----
-
 ## Collaborations & Applications
 
 We collaborate with clinical and academic partners in:
