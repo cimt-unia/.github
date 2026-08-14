@@ -1,10 +1,10 @@
 # Chair of Informatics for Medical Technologies (CIMT)  
-**University of Augsburg — Faculty of Computer Science**
+**University of Augsburg | Faculty of Computer Science**
 
 [![Website](https://img.shields.io/badge/Website-uni--augsburg.de-blue)](https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/svki/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-CIMT-orange)](https://huggingface.co/CIMT)
+[![Hugging Face](https://img.shields.io/badge/HF-Apps-orange)](https://huggingface.co/CIMT)
 [![Email](https://img.shields.io/badge/Email-cimt@informatik.uni--augsburg.de-purple)](mailto:cimt@informatik.uni-augsburg.de)
-
+[![CIMT Atlas](https://img.shields.io/badge/CIMT-Atlas-blue?logo=render)](https://cimt-atlas-app.onrender.com/)
 ---
 
 ## Overview
