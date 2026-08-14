@@ -1,9 +1,6 @@
 # Chair of Informatics for Medical Technologies (CIMT)
 
-**University of Augsburg**
-
-
-[![AU Email](https://img.shields.io/badge/UA-Email-purple)](mailto:cimt@informatik.uni-augsburg.de)
+[![AU Email](https://img.shields.io/badge/University-Email-purple)](mailto:cimt@informatik.uni-augsburg.de)
 [![CIMT Atlas](https://img.shields.io/badge/CIMT-Atlas-blue?logo=render)](https://cimt-atlas-app.onrender.com/)
 
 <br>
