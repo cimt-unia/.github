@@ -3,8 +3,8 @@
 **University of Augsburg**
 
 
-[![AU Email](https://img.shields.io/badge/Email-purple)](mailto:cimt@informatik.uni-augsburg.de)
-[![CIMT Atlas](https://img.shields.io/badge/Atlas-blue?logo=render)](https://cimt-atlas-app.onrender.com/)
+[![AU Email](https://img.shields.io/badge/UA-Email-purple)](mailto:cimt@informatik.uni-augsburg.de)
+[![CIMT Atlas](https://img.shields.io/badge/CIMT-Atlas-blue?logo=render)](https://cimt-atlas-app.onrender.com/)
 
 <br>
 
