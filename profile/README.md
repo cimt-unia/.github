@@ -1,11 +1,12 @@
-# Chair of Informatics for Medical Technologies (CIMT)  
-**University of Augsburg | Faculty of Computer Science**
+# Chair of Informatics for Medical Technologies (CIMT)
 
-[![Website](https://img.shields.io/badge/Website-uni--augsburg.de-blue)](https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/svki/)
-[![Hugging Face](https://img.shields.io/badge/HF-Apps-orange)](https://huggingface.co/CIMT)
-[![Email](https://img.shields.io/badge/Email-cimt@informatik.uni--augsburg.de-purple)](mailto:cimt@informatik.uni-augsburg.de)
-[![CIMT Atlas](https://img.shields.io/badge/CIMT-Atlas-blue?logo=render)](https://cimt-atlas-app.onrender.com/)
----
+**University of Augsburg**
+
+
+[![AU Email](https://img.shields.io/badge/Email-purple)](mailto:cimt@informatik.uni-augsburg.de)
+[![CIMT Atlas](https://img.shields.io/badge/Atlas-blue?logo=render)](https://cimt-atlas-app.onrender.com/)
+
+<br>
 
 ## Overview
 
@@ -20,7 +21,7 @@ We focus on **reproducible**, **open**, and **clinically translatable** computat
 
 Our work supports applications in neurology, movement disorders, and digital biomarker discovery.
 
----
+<br>
 
 ## Core Methodologies
 
@@ -33,7 +34,7 @@ Our work supports applications in neurology, movement disorders, and digital bio
 | **Machine Learning** | Deep neural networks (e.g., BBTransformer), interpretable models for clinical trait prediction |
 | **Biomedical Statistics** | Confounder-aware modeling (age, sex, motion), permutation testing, effect size estimation |
 
----
+<br>
 
 ## Collaborations & Applications
 
@@ -47,7 +48,7 @@ Our methods are applied to:
 - Brain–behavior mapping in motor control
 - Real-world monitoring using wearable and mobile neurotechnology
 
----
+<br>
 
 ## Contact
 
